@@ -15,5 +15,8 @@ public class MyTestGit {
         System.out.println("222222222");
         System.out.println("222222222");
     }
+    public void add(int a ,int b){
+        System.out.println(a+b);
+    }
 }
 
